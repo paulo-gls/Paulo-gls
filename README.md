@@ -2,7 +2,7 @@
 - 🔭 Eu estou trabalhando com Html
 - 📚 Eu estou aprendendo JavaScript
 - 🔮 Em constante evolução 
-- Aprendendo Inglês para futuras vagas de empregos no exterior
+- 🗽 Aprendendo Inglês para futuras vagas de empregos no exterior
 
 <div align="center">
   <a href="https://github.com/paulo-gls">
